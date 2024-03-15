@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+
+.custom-html{
+    background-color:#FFF0F5 ;
+    border-radius: 16px;
+}
+.container{
+background-color: white;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 24px;
+    border-radius: 16px;
+}
+
+.custom-body {
+    display: block;
+border-radius: 26px;
+font-size: 16px;
+font-family: [Young Serif](https://fonts.google.com/specimen/Young+Serif);
+}
+
+.recipe-image {
+width: 100%;
+height: auto;
+display: block;
+border-radius: 10px;
+}
+.prepare{
+    background-color: #FFF0F5;
+    padding: 6px;
+    border-radius: 4px;
+}
+.prepare h3{
+    color: #872657;
+}
+.how h2{
+    color:  #81422C;
+}
+.nutrition-value{
+    color: #81422C;
+}
+ol li::marker{
+    color: #81422C;
+    font-weight: bold;
+}
+.instruct h2{
+color: #81422C;
+}
+.nutrients h2{
+color: #81422C;
+}
+ul li::marker{
+    color: #81422C;
+    font-weight: bold;
+}
